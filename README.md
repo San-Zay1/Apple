@@ -9,7 +9,7 @@ This project demonstrates the application of advanced SQL querying skills by ana
 
 ## Entity Relationship Diagram (ERD)
 
-![ERD](https://github.com/najirh/Apple-Retail-Sales-SQL-Project---Analyzing-Millions-of-Sales-Rows/blob/main/erd.png)
+![ERD](erd.png)
 
 ## Database Schema
 
