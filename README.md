@@ -1,6 +1,7 @@
-# ![Apple retail]([http://url/to/img.png](https://github.com/San-Zay1/Apple/blob/main/Apple_retail.jpg?raw=true))Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
 
-**Get the guided project/datasets here**: [Get the Project Datasets](https://topmate.io/zero_analyst/1237072)
+# Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
+Project Category: Advanced
+ ![Image Alt](https://github.com/San-Zay1/Apple/blob/main/Apple_retail.jpg?raw=true)
 
 ## Project Overview
 
