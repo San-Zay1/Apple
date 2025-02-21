@@ -1,4 +1,4 @@
-# ![[Apple Logo](https://github.com/najirh/Apple-Retail-Sales-SQL-Project---Analyzing-Millions-of-Sales-Rows/blob/main/Apple_Changsha_RetailTeamMembers_09012021_big.jpg.slideshow-xlarge_2x.jpg](https://github.com/San-Zay1/Apple/blob/main/Apple_retail.jpg?raw=true)) Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
+# ![Apple retail]([http://url/to/img.png](https://github.com/San-Zay1/Apple/blob/main/Apple_retail.jpg?raw=true))Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
 
 **Get the guided project/datasets here**: [Get the Project Datasets](https://topmate.io/zero_analyst/1237072)
 
