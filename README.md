@@ -191,7 +191,7 @@ on sa.store_id=st.store_id
 where st.country='USA'
 and sa.sale_date>=date_sub(curdate(),interval 3 year)
 group by Month
-having Total_units
+having Total_units>5000
 order by Total_units desc;
 ```
 **15. Identify the product category with the most warranty claims filed in the last two years.**
